@@ -40,20 +40,25 @@ body{
 
 #side2 {
     transform: rotateY(90deg);
+    background-color: #FF5722;
 }
 
 #side3 {
     transform: rotateY(-90deg);
+    background-color: #2196F3;
 }
 
 #side4 {
     transform: rotateX(90deg);
+    background-color: #c62828;
 }
 
 #side5 {
     transform: rotateX(-90deg);
+    background-color: #4DD0E1;
 }
 
 #side6 {
     transform: rotateY(180deg);
+    background-color: #76FF03;
 }
